@@ -19,8 +19,12 @@ cd your_directory
 git clone https://github.com/jsartori12/NanoGPT2.git
 ```
 
+## Running the code
+First go to the "functions_protgpt2.py" and paste the path of the directory containing the pre-trained model in the variable "path_model" (the pre-trained model can be found propably in the following path: /home/user_name/.cache/huggingface/hub/models--nferruz--ProtGPT2/snapshots/
+<br />
+
 ```python
-### Running the code
+
 
 #### Load directory containing binaries for the pre-trained model
 
