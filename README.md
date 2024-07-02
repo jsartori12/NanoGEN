@@ -19,4 +19,15 @@ cd your_directory
 git clone https://github.com/jsartori12/NanoGPT2.git
 ```
 
+```python
+### Running the code
+
+#### Load directory containing binaries for the pre-trained model
+
+path_model = ""
+
+#### Load pre-trained model and tokenizer
+tokenizer = GPT2Tokenizer.from_pretrained(path_model)
+model = GPT2LMHeadModel.from_pretrained(path_model)
+```
 
