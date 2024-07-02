@@ -5,8 +5,10 @@ This project utilizes the Hugging Face Transformers library to design antibody s
 ## Installation
 
 To run this project, you must install Hugging Face:
+<br />
 https://huggingface.co/docs/transformers/en/installation
 
 After install hugging face and it dependencies, install the pre-trained model from ProtGPT2:
+<br />
 https://huggingface.co/nferruz/ProtGPT2/tree/main?library=transformers
 
