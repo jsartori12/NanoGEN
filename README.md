@@ -12,3 +12,11 @@ After install hugging face and it dependencies, install the pre-trained model fr
 <br />
 https://huggingface.co/nferruz/ProtGPT2/tree/main?library=transformers
 
+## Download the repository in your directory
+
+```
+cd your_directory
+git clone https://github.com/jsartori12/NanoGPT2.git
+```
+
+
