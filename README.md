@@ -16,7 +16,7 @@ https://huggingface.co/nferruz/ProtGPT2/tree/main?library=transformers
 
 ```
 cd your_directory
-git clone https://github.com/jsartori12/NanoGPT2.git
+git clone https://github.com/jsartori12/NanoGEN.git
 ```
 
 ## Running the code
