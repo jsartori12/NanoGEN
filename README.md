@@ -1,4 +1,4 @@
-# NanoGPT2
+# NanoGEN
 
 This project utilizes the Hugging Face Transformers library to design antibody sequences using the PROTGPT2 model. The primary objective is to generate antibody sequences with specific Complementarity-Determining Regions (CDRs) and framework modifications.
 
